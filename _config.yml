@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: bgilbert@meritamerica.org
-url: https://coachbeau.github.io/cyber-base
+title: Lauren Dunbar
+email: ladunbar04@gmail.com
+url: https://LaurenDunbar04.github.io/cybersecurity
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author: Dunbar Lauren
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: Lauren Dunbar  
   location: Location
   social: Around the Web
   credits: Credits
@@ -42,15 +42,15 @@ social:
   - title: linkedin
     url: https://www.linkedin.com/in/beau-gilbert93/
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/LaurenDunbar04
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:bgilbert@meritamerica.org
+  email-url: mailto:ladunbar04@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: Portland, Oregon
+  - line: Carville, Louisiana
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
